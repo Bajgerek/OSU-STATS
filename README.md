@@ -19,4 +19,5 @@ it's very simple. Only thing you need to know is username of player that you wan
 
 # Note
 Not Working Don't Use It
+
 Osu!stats will be never updated
