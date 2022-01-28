@@ -18,4 +18,4 @@ Welcome To Osu!stats here you can check stats of other players
 it's very simple. Only thing you need to know is username of player that you want to check
 
 # Note
-I don't know is it working because i get "Requirement Already Satisfied" but when i try to run i get error "ModuleNotFoundError: No module named 'pyfiglet'"
+Not Working Don't Use It
